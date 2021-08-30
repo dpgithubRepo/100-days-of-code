@@ -3,9 +3,8 @@ package day1;
 import java.util.Arrays;
 import java.util.Stack;
 
-// TODO: Auto-generated Javadoc
 /**
- * This class represents a vertex in the graph.
+ * This class represents a vertex in the graph.  
  */
 class Vertex {
 	private char label;
@@ -62,6 +61,8 @@ class Vertex {
 /**
  * The Class Graph contains methods for creating the vertex list, adjacency
  * matrix, adding vertices and edge.
+ * 
+ * This class uses adjancent matrix and iterative approach for DFS
  */
 public class Graph {
 
