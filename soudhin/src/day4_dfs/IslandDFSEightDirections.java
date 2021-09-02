@@ -40,14 +40,14 @@ You don't need to read or print anything. Your task is to complete the function 
  *
  */
 
-
+//https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1/?track=DSASP-Graph&batchId=154#
 public class IslandDFSEightDirections {
     // Function to find the number of islands.
-    public int numIslands(char[][] grid) {
+    public  static int numIslands(char[][] grid) {
         int islands = 0;
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
-                if(grid[i][j]=='1'){
+                if(grid[i][j]==1){
                     islands++;  // when found 1 increment the counter & track all the adjacent 1s and make it visited
                     dfs(grid,i,j); 
                 }        
@@ -57,9 +57,9 @@ public class IslandDFSEightDirections {
         return islands;
     }
     
-    public void dfs(char[][]grid, int x, int y){
+    public static void dfs(char[][]grid, int x, int y){
         
-        if(x<0 || x>=grid.length||y<0||y>=grid[0].length||grid[x][y]!='1'){
+        if(x<0 || x>=grid.length||y<0||y>=grid[0].length||grid[x][y]!=1){
             return;
         }
         grid[x][y] ='2';  // if already visited make it to 2 so we don't visit again
@@ -76,5 +76,10 @@ public class IslandDFSEightDirections {
         dfs(grid,x+1,y-1);
         
     }
+    
+    public static void main(String[] args) {
+    	char [][]grid = {{0,1,1,1,0,0,0},{0,0,1,1,0,1,0}};
+    	System.out.println(numIslands(grid));  //2
+	}
     
 }
