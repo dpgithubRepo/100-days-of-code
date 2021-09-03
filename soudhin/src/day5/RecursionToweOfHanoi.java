@@ -2,11 +2,19 @@ package day5;
 
 
 /**
- * steps to perform tower of hanoi with 3 disks and 3 poles
+ * steps to perform tower of hanoi with  disks and  towers
  * 
- * a,b,c 
+ * a,b,c towers and 3 disks
  * 
  * move all the disks from a to b using c
+ * 
+ * Rules for moving the disks
+ * 
+ * i) Only one disk can be moved at a time.
+ * 
+ * ii) Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
+ * 
+ * iii) No disk may be placed on top of a smaller disk.
  * 
  * @author Durga Prasad
  *
