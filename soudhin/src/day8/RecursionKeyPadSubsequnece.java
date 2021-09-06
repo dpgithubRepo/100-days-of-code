@@ -3,8 +3,8 @@ package day8;
 import java.util.ArrayList;
 
 /**
- * 1. You are given a string . The string  will contains numbers only, where each number stands for a key pressed on a mobile phone.
-2. The following list is the key to characters map
+ * You are given a string . The string  will contains numbers only, where each number stands for a key pressed on a mobile phone.
+ * The following list is the key to characters map
     0 -> .;
    1 -> abc
    2 -> def
