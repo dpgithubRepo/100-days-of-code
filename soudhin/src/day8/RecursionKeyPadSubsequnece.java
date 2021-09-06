@@ -51,8 +51,8 @@ public class RecursionKeyPadSubsequnece {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(getKeyPadCombinations("123"));
+		System.out.println(getKeyPadCombinations("123")); //[adg, adh, adi, aeg, aeh, aei, afg, afh, afi, bdg, bdh, bdi, beg, beh, bei, bfg, bfh, bfi, cdg, cdh, cdi, ceg, ceh, cei, cfg, cfh, cfi]
 		
-		System.out.println(getKeyPadCombinations("45"));
+		System.out.println(getKeyPadCombinations("45")); //[jm, jn, jo, km, kn, ko, lm, ln, lo]
 	}
 }
