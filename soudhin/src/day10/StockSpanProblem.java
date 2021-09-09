@@ -19,6 +19,12 @@ public class StockSpanProblem {
 	
 	
 	
+	/**
+	 * Derive stock span naive.
+	 *
+	 * @param stockPrice the stock price
+	 * @return the int[]
+	 */
 	// O(n*n)
 	public static int[] deriveStockSpanNaive(int[] stockPrice) {
 		int[] spans = new int[stockPrice.length];
@@ -41,6 +47,11 @@ public class StockSpanProblem {
 		return spans;
 	}
 	
+	/**
+	 * The main method.
+	 *
+	 * @param args the arguments
+	 */
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(deriveStockSpanNaive(new int[] {100,80,60,70,60,75,85})));  //[1, 1, 1, 2, 1, 4, 6]
 
