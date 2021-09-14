@@ -15,7 +15,7 @@ package day15;
  * 
  *
  */
-public class CheckKBitSet {
+public class CheckKBitSetByLeftShift {
 	
 	public static boolean isKthBitSet(int n, int k) {
 		return (n & (1 <<(k-1))) != 0;
