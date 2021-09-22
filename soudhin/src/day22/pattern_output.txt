@@ -1,0 +1,166 @@
+
+Pattern1
+========
+
+Enter a number
+5
+
+*	
+*	*	
+*	*	*	
+*	*	*	*	
+*	*	*	*	*	
+
+
+Pattern2
+========
+
+enter a  number
+5
+*	*	*	*	*	
+*	*	*	*	
+*	*	*	
+*	*	
+*	
+
+
+
+Pattern3
+========
+
+Enter a number
+5
+				*	
+			*	*	
+		*	*	*	
+	*	*	*	*	
+*	*	*	*	*	
+
+
+Pattern4
+========
+
+Enter a number
+5
+
+*	*	*	*	*	
+	*	*	*	*	
+		*	*	*	
+			*	*	
+				*	
+
+Pattern5
+========
+
+Enter a number
+5
+
+		*	
+	*	*	*	
+*	*	*	*	*	
+	*	*	*	
+		*	
+		
+Pattern6
+========
+
+Enter a number
+5
+
+*	*	*		*	*	*	
+*	*				*	*	
+*						*	
+*	*				*	*	
+*	*	*		*	*	*	
+		
+
+Pattern7
+========
+
+Enter a number
+5
+
+*					
+	*				
+		*			
+			*		
+				*	
+				
+				
+Pattern8
+=======
+
+Enter a number
+5
+				*	
+			*		
+		*			
+	*				
+*					
+
+
+
+Pattern9
+========
+
+Enter a number
+5
+
+*				*	
+	*		*		
+		*			
+	*		*		
+*				*	
+
+
+Pattern10
+=========
+
+Enter the number
+5
+
+
+		*	*	
+	*			*	
+*					*	
+	*			*	
+		*	*	
+				
+
+Pattern11
+=========
+Enter a number
+5
+
+
+1	
+2	3	
+4	5	6	
+7	8	9	10	
+11	12	13	14	15	
+
+
+Pattern12
+=========
+Enter a number
+5
+
+0	
+1	1	
+2	3	5	
+8	13	21	34	
+55	89	144	233	377	
+
+
+Pattern20
+=========
+
+Enter a number
+5
+
+*				*	
+*				*	
+*		*		*	
+*	*		*	*	
+*				*	
+
