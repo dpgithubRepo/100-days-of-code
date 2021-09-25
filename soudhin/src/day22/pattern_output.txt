@@ -118,13 +118,12 @@ Pattern10
 
 Enter the number
 5
+			*
+		*		*
+	*				*
+		*		*
+			*
 
-
-		*	*	
-	*			*	
-*					*	
-	*			*	
-		*	*	
 				
 
 Pattern11
