@@ -1,0 +1,47 @@
+output 1
+========
+
+Enter Source number
+111
+Enter Source base
+2
+Enter the target base
+10
+Conversion of 111 from base 2 to 10 = 7
+
+
+
+
+output 2
+========
+
+Enter Source number
+7
+Enter Source base
+10
+Enter the target base
+2
+Conversion of 7 from base 10 to 2 = 111
+
+
+output 3
+========
+
+Enter Source number
+56
+Enter Source base
+8
+Enter the target base
+10
+Conversion of 56 from base 8 to 10 = 46
+
+
+output 4
+========
+Enter Source number
+46
+Enter Source base
+10
+Enter the target base
+8
+Conversion of 46 from base 10 to 8 = 56
