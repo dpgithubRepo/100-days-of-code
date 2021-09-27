@@ -13,4 +13,8 @@ Enter a decimal  number and base to which it has to be converted   (decimal to o
 8    (base)
 66  (output)
 
-
+ 
+Enter a decimal  number and base to whcih it has to be converted  (decimal to decimal)
+100  (decimal)
+10   (decimal)
+100  (outputs) 
