@@ -3,7 +3,9 @@ package day26;
 import java.util.Scanner;
 
 /**
- * Given a number and it's source base also input target base. The input number n would be converted to target base
+ * Given a number n and it's base _srcBase also input target base _tgtBase . 
+ * 
+ * The input number n  would be converted from _srcBase to _tgtBase
  * @author Durga Prasad
  *
  */
