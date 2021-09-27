@@ -1,0 +1,16 @@
+
+
+Enter a decimal  number and base to which it has to be converted   (decimal to binary)
+14   (decimal)
+2    (base)
+1110  (output)
+
+
+
+
+Enter a decimal  number and base to which it has to be converted   (decimal to octal)
+54   (decimal)
+8    (base)
+66  (output)
+
+
