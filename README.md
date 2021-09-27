@@ -3,4 +3,6 @@
  
  Day 20, 21 - Print Patterns 
  
- Day 22 - print patterns all moved to same package and added the pattern_output.txt for the expected outputs
+ Day 22 to 25 - print patterns all moved to same package and added the pattern_output.txt for the expected outputs
+ 
+ Day 26 - Number conversions - decimal, octal & binary. Generic converter which takes input number, source base and converts to target base
