@@ -1,0 +1,27 @@
+Enter number 1
+534
+Enter number 2
+467
+Enter base
+8
+Adding 534 and 467 of base 8 = 1223
+
+
+
+Enter number 1
+10
+Enter number 2
+19
+Enter base
+10
+Adding 10 and 19 of base 10 = 29
+
+
+
+Enter number 1
+100
+Enter number 2
+001
+Enter base
+2
+Adding 100 and 1 of base 2 = 101
