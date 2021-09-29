@@ -1,0 +1,194 @@
+ArraySpan
+========
+
+enter the size of the array
+5
+Enter the elments of the array
+1
+2
+3
+4
+5
+span of the given array [1, 2, 3, 4, 5] is 4
+
+
+enter the size of the array
+3
+Enter the elments of the array
+-1
+-2
+-5
+span of the given array [-1, -2, -5] is 4
+
+
+
+
+
+Find element linear search
+==========================
+
+enter the size of the array
+6
+Enter the elments of the array
+1
+2
+3
+4
+5
+8
+Enter the target element to find in the array
+4
+index of 4 in the array [1, 2, 3, 4, 5, 8] is 3
+
+
+
+enter the size of the array
+5
+Enter the elments of the array
+1
+2
+3
+4
+5
+Enter the target element to find in the array
+12
+index of 12 in the array [1, 2, 3, 4, 5] is -1
+
+
+
+
+
+
+Barchart
+=========
+
+enter the size of the array
+5
+Enter the elments of the array
+1
+2
+3
+4
+5
+				*	
+			*	*	
+		*	*	*	
+	*	*	*	*	
+*	*	*	*	*	
+
+
+
+
+enter the size of the array
+10
+Enter the elments of the array
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+									*	
+								*	*	
+							*	*	*	
+						*	*	*	*	
+					*	*	*	*	*	
+				*	*	*	*	*	*	
+			*	*	*	*	*	*	*	
+		*	*	*	*	*	*	*	*	
+	*	*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	*	*	
+
+
+
+enter the size of the array
+10
+Enter the elments of the array
+1
+2
+3
+4
+5
+4
+3
+2
+1
+0
+				*						
+			*	*	*					
+		*	*	*	*	*				
+	*	*	*	*	*	*	*			
+*	*	*	*	*	*	*	*	*		
+*	*	*	*	*	*	*	*	*	*	
+
+
+
+
+
+
+SumTwoArrays
+===========
+
+enter the size of the first array
+3
+Enter the elments of the first array
+5
+4
+3
+enter the size of the second array
+2
+Enter the elments of the second array
+9
+9
+[5, 4, 3] + [9, 9] = 6 4 2 
+
+
+
+
+enter the size of the first array
+5
+Enter the elments of the first array
+5
+4
+3
+2
+1
+enter the size of the second array
+5
+Enter the elments of the second array
+1
+2
+3
+4
+5
+[5, 4, 3, 2, 1] + [1, 2, 3, 4, 5] = 6 6 6 6 6 
+
+
+
+
+ReverseArray
+============
+
+enter the size of the array
+5
+Enter the elments of the array
+5
+4
+3
+2
+1
+reverse of [5, 4, 3, 2, 1] is [1, 2, 3, 4, 5]
+
+
+
+enter the size of the array
+3
+Enter the elments of the array
+2
+1
+3
+reverse of [2, 1, 3] is [3, 1, 2]
