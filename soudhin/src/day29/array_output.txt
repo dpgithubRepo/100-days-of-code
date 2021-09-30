@@ -1,0 +1,135 @@
+BinarySearch
+============
+
+Enter the size of the array
+5
+Enter the array elements
+1
+2
+3
+4
+5
+Enter the target element
+6
+-1  o/p
+
+
+
+Enter the size of the array
+10
+Enter the array elements
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Enter the target element
+50
+4 o/p
+
+
+
+Enter the size of the array
+3
+Enter the array elements
+12
+13
+14
+Enter the target element
+12
+0 o/p
+
+
+Enter the size of the array
+3
+Enter the array elements
+2
+3
+4
+Enter the target element
+2
+0 o/p
+
+
+
+Sub Arrays
+==========
+
+
+Enter the size of the array
+5
+Enter the array Elements
+1
+2
+3
+4
+5
+sub arrays as follows
+1	
+1	2	
+1	2	3	
+1	2	3	4	
+1	2	3	4	5	
+2	
+2	3	
+2	3	4	
+2	3	4	5	
+3	
+3	4	
+3	4	5	
+4	
+4	5	
+5	
+
+
+Enter the size of the array
+4
+Enter the array Elements
+1
+23
+42
+2
+sub arrays as follows
+1	
+1	23	
+1	23	42	
+1	23	42	2	
+23	
+23	42	
+23	42	2	
+42	
+42	2	
+2	
+
+
+
+Enter the size of the array
+1
+Enter the array Elements
+10
+sub arrays as follows
+10	
+
+
+
+Inverse of an array
+==================
+
+Enter the size of the array
+5
+Enter the array elements
+2
+4
+1
+0
+3
+inverse of [2, 4, 1, 0, 3] = [3, 2, 0, 4, 1]
+
+
+
+
