@@ -3,7 +3,7 @@ ArraySpan
 
 enter the size of the array
 5
-Enter the elments of the array
+Enter the elements of the array
 1
 2
 3
@@ -14,7 +14,7 @@ span of the given array [1, 2, 3, 4, 5] is 4
 
 enter the size of the array
 3
-Enter the elments of the array
+Enter the elements of the array
 -1
 -2
 -5
@@ -29,7 +29,7 @@ Find element linear search
 
 enter the size of the array
 6
-Enter the elments of the array
+Enter the elements of the array
 1
 2
 3
@@ -44,7 +44,7 @@ index of 4 in the array [1, 2, 3, 4, 5, 8] is 3
 
 enter the size of the array
 5
-Enter the elments of the array
+Enter the elements of the array
 1
 2
 3
@@ -81,7 +81,7 @@ Enter the elments of the array
 
 enter the size of the array
 10
-Enter the elments of the array
+Enter the elements of the array
 0
 1
 2
@@ -107,7 +107,7 @@ Enter the elments of the array
 
 enter the size of the array
 10
-Enter the elments of the array
+Enter the elements of the array
 1
 2
 3
@@ -135,13 +135,13 @@ SumTwoArrays
 
 enter the size of the first array
 3
-Enter the elments of the first array
+Enter the elements of the first array
 5
 4
 3
 enter the size of the second array
 2
-Enter the elments of the second array
+Enter the elements of the second array
 9
 9
 [5, 4, 3] + [9, 9] = 6 4 2 
@@ -151,7 +151,7 @@ Enter the elments of the second array
 
 enter the size of the first array
 5
-Enter the elments of the first array
+Enter the elements of the first array
 5
 4
 3
@@ -159,7 +159,7 @@ Enter the elments of the first array
 1
 enter the size of the second array
 5
-Enter the elments of the second array
+Enter the elements of the second array
 1
 2
 3
@@ -175,7 +175,7 @@ ReverseArray
 
 enter the size of the array
 5
-Enter the elments of the array
+Enter the elements of the array
 5
 4
 3
@@ -187,7 +187,7 @@ reverse of [5, 4, 3, 2, 1] is [1, 2, 3, 4, 5]
 
 enter the size of the array
 3
-Enter the elments of the array
+Enter the elements of the array
 2
 1
 3

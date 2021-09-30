@@ -54,7 +54,7 @@ public class SumTwoArrays {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("enter the size of the first array");
 		int n = scanner.nextInt();
-		System.out.println("Enter the elments of the first array");
+		System.out.println("Enter the elements of the first array");
 		
 		int[] arr1 = new int[n];
 		
@@ -67,7 +67,7 @@ public class SumTwoArrays {
 		System.out.println("enter the size of the second array");
 		 n = scanner.nextInt();
 		 
-		System.out.println("Enter the elments of the second array");
+		System.out.println("Enter the elements of the second array");
 		
 		int[] arr2 = new int[n];
 		

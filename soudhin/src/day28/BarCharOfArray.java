@@ -42,7 +42,7 @@ public class BarCharOfArray {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("enter the size of the array");
 		int n = scanner.nextInt();
-		System.out.println("Enter the elments of the array");
+		System.out.println("Enter the elements of the array");
 
 		int[] arr = new int[n];
 
