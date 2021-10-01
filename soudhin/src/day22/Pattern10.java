@@ -9,7 +9,7 @@ public class Pattern10 {
 				int n = scanner.nextInt();
 				scanner.close();
 				
-				int _innerSpace = n/2+1;
+				int _innerSpace = n/2;
 				int _outerSpace = 0;
 				
 				for(int i = 1; i<=n ; i++) {
