@@ -12,41 +12,42 @@ import java.util.Scanner;
 
 public class GenericNumberConverter {
 	
-	public static int convertFromSrcBaseToTgtBase(int n, int _srcBase, int _tgtBase) {
-		
-		int ans = 0;
-		
-		int pow = 1;
-		
-		while( n > 0 ) {
-			int rem = n % _tgtBase;
-			
-			n = n / _tgtBase;
-			
-			ans = ans + rem * pow;
-			
-			pow = pow * _srcBase;
-					
-		}
-		
+	public static int convertSrcBaseToDestBase(int n, int srcBase, int destBase) {
+		int ans = getValueIndecimal(n, srcBase);
+		ans = getValueInBaseFromDecimal(ans, destBase);
 		return ans;
+		
 	}
-
-	
+	public static int getValueInBaseFromDecimal(int n, int b){
+		 int ans = 0;
+		 int pow = 1;
+		 while(n > 0) {
+			 int rem = n % b;
+			 n = n / b;
+			 ans = ans + (rem * pow);
+			 pow = pow*10;
+		 }
+		 
+		 return ans;
+	   }
+	 public static int getValueIndecimal(int n, int b){
+	     int ans = 0;
+	     int pow = 1;
+	     while(n > 0) {
+	    	 int rem = n % 10;
+	    	 n = n / 10;
+	    	 ans = ans + rem * pow;
+	    	 pow = pow * b ;
+	     }
+	     return ans;
+	   }
 	public static void main(String[] args) {
-		
-		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter Source number");
-		int n = scanner.nextInt();
-		
-		System.out.println("Enter Source base");
-		int _srcBase = scanner.nextInt();
-		
-		System.out.println("Enter the target base");
-		int _tgtBase = scanner.nextInt();
-		
-		scanner.close();
-		
-		System.out.println("Conversion of " +  n + " from base " + _srcBase +" to " +_tgtBase +" = " + convertFromSrcBaseToTgtBase(n, _srcBase, _tgtBase));
+		Scanner scn = new Scanner(System.in);
+		int n = scn.nextInt();
+		int sourceBase = scn.nextInt();
+		int destBase = scn.nextInt();
+		scn.close();
+		int ans = convertSrcBaseToDestBase(n, sourceBase, destBase);
+		System.out.println(ans);
 	}
 }
