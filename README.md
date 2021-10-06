@@ -14,4 +14,4 @@ Day 33 - number base conversions
 
 Day 34 - 2d array spiral printing
 
-Day 35 - Leet code - find Duplicates in Array, Two Sum problem
+Day 35 - [ Leet code - find Duplicates in Array, Two Sum problem ] , spiral display of 2d Array
