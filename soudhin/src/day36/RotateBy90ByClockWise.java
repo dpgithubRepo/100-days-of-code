@@ -34,13 +34,12 @@ Input:
 Output:
 3 1
 4 2 
-Recommended: Please try your approach on {IDE} first, before moving on to the soluti
  * 
  * 
  * 
  *
  */
-public class RotateBy90 {
+public class RotateBy90ByClockWise {
 
 	//note to rotate by 90 first transpose & then reverse the elements row wise
 	public static void main(String[] args) {
