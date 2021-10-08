@@ -41,7 +41,7 @@ Output:
  */
 public class RotateBy90ByClockWise {
 
-	//note to rotate by 90 first transpose & then reverse the elements row wise
+	//note to rotate by 90 clock wise first transpose & then reverse the elements row wise
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
