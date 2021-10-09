@@ -15,3 +15,7 @@ Day 33 - number base conversions
 Day 34 - 2d array spiral printing
 
 Day 35 - [ Leet code - find Duplicates in Array, Two Sum problem ] , spiral display of 2d Array
+
+Day 36 - 2d array clock  & Anti clock wise 90 deg rotations
+
+Day 37 - 2d array - search sorted array, 2d array - saddle point, String - palindrome substrings brut force, String - compression problem
