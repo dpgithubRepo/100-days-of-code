@@ -19,3 +19,7 @@ Day 35 - [ Leet code - find Duplicates in Array, Two Sum problem ] , spiral disp
 Day 36 - 2d array clock  & Anti clock wise 90 deg rotations
 
 Day 37 - 2d array - search sorted array, 2d array - saddle point, String - palindrome substrings brut force, String - compression problem
+
+Day 38 - 2d array pattern printing
+
+Day 39 =  diagonal traversal in a 2d array
