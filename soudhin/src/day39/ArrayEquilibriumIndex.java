@@ -1,5 +1,22 @@
 package day39;
 
+
+/**
+ * Given an array return equilibrium index k  such that sum of elements from 0 to k-1 = sum of elements from k+1 to n ( n = length of array), 
+ * 
+ * if no such index return -1
+ * 
+ * 
+ * example {1,2,3}  => -1
+ * 
+ * example {12,0,2,3,9} => 2
+ * 
+ * {10,10,10,10,10,0,50} => 5
+ * 
+ * 
+ * @author Durga Prasad
+ *
+ */
 public class ArrayEquilibriumIndex {
 
 	public static int getEquilibriumIndexBrutForce(int [] arr) {
