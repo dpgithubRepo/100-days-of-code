@@ -23,3 +23,5 @@ Day 37 - 2d array - search sorted array, 2d array - saddle point, String - palin
 Day 38 - 2d array pattern printing
 
 Day 39 -  diagonal traversal in a 2d array, find eqilibrium index of an array
+
+Day 40 - Number Reversal & Rotation progrrams
