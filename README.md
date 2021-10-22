@@ -25,3 +25,5 @@ Day 38 - 2d array pattern printing
 Day 39 -  diagonal traversal in a 2d array, find eqilibrium index of an array
 
 Day 40 - Number Reversal & Rotation programs
+
+Day 41,42,43 - recursion
